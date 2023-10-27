@@ -145,7 +145,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
         )
-        ,url(./images/camping3.jpg);
+        ,url(../images/camping3.jpg);
         
 }
 
@@ -155,7 +155,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
         )
-        ,url(./images/montañas1.jpg);
+        ,url(../images/montañas1.jpg);
         
 }
 
@@ -165,7 +165,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
         )
-        ,url(./images/gotcha1.jpg);
+        ,url(../images/gotcha1.jpg);
         
 }
 #ventajas .container{
@@ -258,7 +258,7 @@ footer .container{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
         
-        ), url(./images/camping1.jpg);
+        ), url(../images/camping1.jpg);
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -289,7 +289,7 @@ footer .container{
     }
 
     #ventajas {
-        background-image: url(./images/lago2.jpg);
+        background-image: url(../images/lago2.jpg);
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 400px) 120px;
