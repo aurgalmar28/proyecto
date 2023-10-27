@@ -89,7 +89,7 @@ header a:hover{
         rgba(0,0,0,0.5)
         )
     
-    ,url("./images/lago1.jpg");
+    ,url("../images/lago1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
